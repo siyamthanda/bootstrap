@@ -1,0 +1,19 @@
+body{
+  font-style:'inherit';
+  color: grey;
+}
+.text-muded{
+  color:#BCBBBB;
+}
+.text-thin{
+  font-weight:100;
+}
+
+
+.title-super{
+  font-size:60px;
+}
+
+.title-logo{
+  margin-top:20px;
+}
